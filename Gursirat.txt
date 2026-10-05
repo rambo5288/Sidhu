@@ -1,1 +1,2 @@
 This is my Git assignment.
+This is an update I have made on GitHub.
